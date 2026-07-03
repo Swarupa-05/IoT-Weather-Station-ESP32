@@ -1,6 +1,4 @@
-Project Name
 IoT Weather Station using ESP32
-
 Intern ID
 CITS4643
 
